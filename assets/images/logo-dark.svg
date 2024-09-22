@@ -1,0 +1,6 @@
+<svg width="300" height="50" viewBox="0 0 300 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="50" fill="white"/>
+  <text x="10" y="35" fill="black" font-family="Arial, sans-serif" font-size="30">Pro</text>
+  <text x="60" y="35" fill="blue" font-family="Arial, sans-serif" font-size="30">Matrix</text>
+  <text x="160" y="35" fill="blue" font-family="Arial, sans-serif" font-size="30">Solutions</text>
+</svg>
